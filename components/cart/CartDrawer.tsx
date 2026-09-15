@@ -16,7 +16,7 @@ export default function CartDrawer() {
     const message = encodeURIComponent(
       `¡Hola Veviva! Me gustaría ordenar las siguientes carteras artesanales:\n\n${summary}\n\nTotal: $${totalPrice} USD\n¿Podrían indicarme los datos de pago y envío?`
     );
-    window.open(`https://wa.me/593900000000?text=${message}`, '_blank');
+    window.open(`https://wa.me/51900000000?text=${message}`, '_blank');
   };
 
   if (!isOpen) return null;

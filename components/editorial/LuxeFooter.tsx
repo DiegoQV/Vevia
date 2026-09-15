@@ -87,7 +87,7 @@ export default function LuxeFooter() {
               </span>
             </div>
             <div className="flex flex-wrap items-center gap-6">
-              <span>Taller Central: Quito, Ecuador</span>
+              <span>Taller Central: Lima, Perú</span>
               <span>Envíos Globales DHL</span>
               <span className="text-[#121316] font-medium">USD ($)</span>
             </div>
@@ -165,7 +165,7 @@ export default function LuxeFooter() {
               <ul className="space-y-2.5">
                 <li>
                   <a
-                    href="https://wa.me/593900000000"
+                    href="https://wa.me/51900000000"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-[#121316] font-medium hover:underline flex items-center gap-1.5"

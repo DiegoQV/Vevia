@@ -36,7 +36,7 @@ export default function AtelierBespoke() {
       `• Grabado en corazón: ${monogram || 'Por definir'}\n\n` +
       `¿Tienen disponibilidad de cupo para el ciclo actual? Muchas gracias.`
     );
-    return `https://wa.me/593900000000?text=${text}`;
+    return `https://wa.me/51900000000?text=${text}`;
   };
 
   return (

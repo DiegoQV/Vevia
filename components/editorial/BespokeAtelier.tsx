@@ -19,7 +19,7 @@ export default function BespokeAtelier() {
     const text = encodeURIComponent(
       '¡Hola Veviva Atelier! Me gustaría solicitar información sobre el servicio de piezas por encargo y personalización exclusiva de hilados y herrajes.'
     );
-    return `https://wa.me/593900000000?text=${text}`;
+    return `https://wa.me/51900000000?text=${text}`;
   };
 
   return (
